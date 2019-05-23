@@ -5,3 +5,4 @@
 在dev分支第一次吃香蕉
 在dev分支第二次吃香蕉
 在dev分支第三次吃香蕉
+禁用fast forward
