@@ -7,3 +7,4 @@
 在dev分支第三次吃香蕉
 禁用fast forward
 dev stash暂存，在解封
+stash dev并修复bug1
