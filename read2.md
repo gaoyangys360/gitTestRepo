@@ -1,4 +1,4 @@
-吃荔枝--feature1--master
+吃荔枝--feature1--master--周六修复bug
 第二次吃荔枝
 第三次吃荔枝
 第四次吃荔枝！！！！！！
@@ -8,4 +8,4 @@
 禁用fast forward
 使用 git stash 封存
 我修复了这个bug
-
+今天周六，我修复了一个 bug
